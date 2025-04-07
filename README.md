@@ -27,23 +27,6 @@ This project demonstrates how to build **RESTful APIs** for a simple **Banking A
 
 ---
 
-## 📁 Project Structure
-
-src
-├── main
-│   ├── java
-│   │   └── net.javaguides.banking
-│   │       ├── controller
-│   │       ├── dto
-│   │       ├── entity
-│   │       ├── mapper
-│   │       ├── repository
-│   │       └── service
-│   │           └── impl
-│   └── resources
-│       └── application.properties
-
-
 ## ⚙️ Getting Started
 
 ### ✅ Prerequisites
